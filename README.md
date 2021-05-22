@@ -1,6 +1,6 @@
 # MiserMe
 
-View the video demo by clicking [here](https://youtu.be/0HwxuUpiMC0).
+View the video demo by clicking [here](https://youtu.be/vEcOdbDVD4A).
 
 A simple, free form budgeting / financial Flask application built using Python, SQLite3, HTML, CSS, and JavaScript.
 
