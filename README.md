@@ -58,7 +58,16 @@ MiserMe is an application that can help users log, budget, and record their fina
 <br>
 
 <h2 align="center">Preview: Add Expense</h2>
-<p>After a budget is started, users have an option to add an expense (i.e. bills, transactions, etc.). Below is an example of a user entering his rent.</p>
+<p>After a budget is started, users have an option to add an expense (i.e. bills, transactions, etc.). Below is an example of a user entering his rent.
+14 Types of Business Expenses Added
+1) Wages and salaries paid to workers and employees.
+2) Location cost. a) Rental cost. b) Mortgage Cost. c) Leasing cost.
+3) Accounting and Banks expenses.
+4) Education and training expenses.
+5) Office expenses.
+6) Office supplies.
+7) Business Insurance Expenses.
+8) Network and communication expenses</p>
 
 <div align="center">
 <img src="images/expense.png">
@@ -73,7 +82,16 @@ MiserMe is an application that can help users log, budget, and record their fina
 <br>
 
 <h2 align="center">Preview: Homepage after adding an Expense</h2>
-<p>This is the homepage after the user adds an expense. As you can see, "Rent" was recorded.</p>
+<p>This is the homepage after the user adds an expense. As you can see, "Rent" was recorded.
+An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
+
+Entry Id
+Transaction Name
+Date
+Predicted Cost
+True Cost
+Fund Added
+Notes</p>
 
 <div align="center">
 <img src="images/expense_homepage.png">
@@ -86,7 +104,16 @@ MiserMe is an application that can help users log, budget, and record their fina
 <br>
 
 <h2 align="center">Preview: Edit Expense</h2>
-<p>Assuming the user made an error, or if the transaction date had past and the user wants to change a "Predicted Cost" into a "True Cost", the user may edit transactions via the "Edit Expense" button in the navigation bar.</p>
+<p>Assuming the user made an error, or if the transaction date had past and the user wants to change a "Predicted Cost" into a "True Cost", the user may edit transactions via the "Edit Expense" button in the navigation bar.
+An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
+
+Entry Id
+Transaction Name
+Date
+Predicted Cost
+True Cost
+Fund Added
+Notes</p>
 
 <div align="center">
 <img src="images/edit_expense.png">
@@ -99,7 +126,16 @@ MiserMe is an application that can help users log, budget, and record their fina
 <br>
 
 <h2 align="center">Preview: Homepage after editing an Expense</h2>
-<p>Below is the homepage after the user had edited the transaction "Rent" to a True Cost $500 less than what he had anticipated.</p>
+<p>Below is the homepage after the user had edited the transaction "Rent" to a True Cost $500 less than what he had anticipated.
+An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
+
+Entry Id
+Transaction Name
+Date
+Predicted Cost
+True Cost
+Fund Added
+Notes</p>
 
 <div align="center">
 <img src="images/edit_expense_homepage.png">
@@ -112,7 +148,11 @@ MiserMe is an application that can help users log, budget, and record their fina
 <br>
 
 <h2 align="center">Preview: Add Funds</h2>
-<p>The user can add funds to their available pool whenever fortune strikes. Here is an example of a user receiving $100 from his grandmother.</p>
+<p>The user can add funds to their available pool whenever fortune strikes. Here is an example of a user receiving $100 from his grandmother.
+An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
+
+Entry Id
+Transaction Name.</p>
 
 <div align="center">
 <img src="images/add_funds.png">
@@ -125,7 +165,16 @@ MiserMe is an application that can help users log, budget, and record their fina
 <br>
 
 <h2 align="center">Preview: Homepage after adding Funds</h2>
-<p>The added funds appears as another transaction. However, rather than decrementing the available funds, the new funds are added.</p>
+<p>The added funds appears as another transaction. However, rather than decrementing the available funds, the new funds are added.
+An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
+
+Entry Id
+Transaction Name
+Date
+Predicted Cost
+True Cost
+Fund Added
+Notes</p>
 
 <div align="center">
 <img src="images/add_funds_homepage.png">
@@ -138,7 +187,10 @@ MiserMe is an application that can help users log, budget, and record their fina
 <br>
 
 <h2 align="center">Preview: Edit Added Funds</h2>
-<p>Perhaps the user made an error when adding in funds? Easily corrected using the "Edit Added Funds" feature. Here is an example of the user's grandmother giving an extra $100.</p>
+<p>Perhaps the user made an error when adding in funds? Easily corrected using the "Edit Added Funds" feature. Here is an example of the user's grandmother giving an extra $100.An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
+
+Entry Id
+Transaction Name.</p>
 
 <div align="center">
 <img src="images/edit_add_funds.png">
@@ -151,7 +203,16 @@ MiserMe is an application that can help users log, budget, and record their fina
 <br>
 
 <h2 align="center">Preview: Homepage after editing added Funds</h2>
-<p>The homepage is updated with the extra $100 the user received from his grandmother.</p>
+<p>The homepage is updated with the extra $100 the user received from his grandmother.
+An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
+
+Entry Id
+Transaction Name
+Date
+Predicted Cost
+True Cost
+Fund Added
+Notes</p>
 
 <div align="center">
 <img src="images/edit_add_funds_homepage.png">
@@ -177,7 +238,18 @@ MiserMe is an application that can help users log, budget, and record their fina
 <br>
 
 <h2 align="center">Preview: Download</h2>
-<p>Another excellent feature of this app is the ability to export all transactions made into a csv file for users that like to keep a record of their budget and stay on top of their finances.</p>
+<p>Another excellent feature of this app is the ability to export all transactions made into a csv file for users that like to keep a record of their budget and stay on top of their finances.
+Adding expenses on Saver is easy.
+
+This shouldn’t be considered a pro, but you would be surprised at how counter-intuitive it is to find a simple “add expense” button on other apps, often buried under various pages.
+
+On Saver, just enter the amount of purchase, select from 15 choices to categorize your purchase, and if you so please, enter a tag for it and some notes about the purchase. (This makes it easy to track those ambiguous Amazon.com purchases and spending made with PayPal.)
+
+My favorite thing about Saver is how it takes your expenses and compiles it into interactive pie charts by time period, and then by category.
+
+You can look at how much you spent on groceries for the month of 
+
+I personally prefer pie charts over other kinds of graphs, so this app has been extremely helpful in allowing me to visualize my expenditures.</p>
 
 <div align="center">
 <img src="images/downloads.png">
