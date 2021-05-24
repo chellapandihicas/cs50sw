@@ -58,9 +58,9 @@ MiserMe is an application that can help users log, budget, and record their fina
 <br>
 
 <h2 align="center">Preview: Add Expense</h2>
-<p>After a budget is started, users have an option to add an expense (i.e. bills, transactions, etc.). Below is an example of a user entering his rent.
-14 Types of Business Expenses Added
-1) Wages and salaries paid to workers and employees.
+<p>After a budget is started, users have an option to add an expense (i.e. bills, transactions, etc.). Below is an example of a user entering his rent.</p>
+<p>14 Types of Business Expenses Added</p>
+<P>1) Wages and salaries paid to workers and employees.
 2) Location cost. a) Rental cost. b) Mortgage Cost. c) Leasing cost.
 3) Accounting and Banks expenses.
 4) Education and training expenses.
@@ -82,16 +82,17 @@ MiserMe is an application that can help users log, budget, and record their fina
 <br>
 
 <h2 align="center">Preview: Homepage after adding an Expense</h2>
-<p>This is the homepage after the user adds an expense. As you can see, "Rent" was recorded.
-An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
-
-Entry Id
-Transaction Name
-Date
-Predicted Cost
-True Cost
-Fund Added
-Notes</p>
+<p>This is the homepage after the user adds an expense. As you can see, "Rent" was recorded.</p>
+<p>An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:</p>
+<br>
+<br>
+<p>Entry Id<p/>
+<p>Transaction Name</p>
+<p>Date</p>
+<p>Predicted Cost/<p>
+<p>True Cost</p>
+<p>Fund Added</p>
+<p>Notes</p>
 
 <div align="center">
 <img src="images/expense_homepage.png">
@@ -104,16 +105,17 @@ Notes</p>
 <br>
 
 <h2 align="center">Preview: Edit Expense</h2>
-<p>Assuming the user made an error, or if the transaction date had past and the user wants to change a "Predicted Cost" into a "True Cost", the user may edit transactions via the "Edit Expense" button in the navigation bar.
-An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
-
-Entry Id
-Transaction Name
-Date
-Predicted Cost
-True Cost
-Fund Added
-Notes</p>
+<p>Assuming the user made an error, or if the transaction date had past and the user wants to change a "Predicted Cost" into a "True Cost", the user may edit transactions via the "Edit Expense" button in the navigation bar.</p>
+<p>An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:</p>
+<br>
+<br>
+<p>Entry Id<p/>
+<p>Transaction Name</p>
+<p>Date</p>
+<p>Predicted Cost/<p>
+<p>True Cost</p>
+<p>Fund Added</p>
+<p>Notes</p>
 
 <div align="center">
 <img src="images/edit_expense.png">
@@ -127,15 +129,17 @@ Notes</p>
 
 <h2 align="center">Preview: Homepage after editing an Expense</h2>
 <p>Below is the homepage after the user had edited the transaction "Rent" to a True Cost $500 less than what he had anticipated.
-An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
-
-Entry Id
-Transaction Name
-Date
-Predicted Cost
-True Cost
-Fund Added
-Notes</p>
+</p>
+<p>An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:</p>
+<br>
+<br>
+<p>Entry Id<p/>
+<p>Transaction Name</p>
+<p>Date</p>
+<p>Predicted Cost/<p>
+<p>True Cost</p>
+<p>Fund Added</p>
+<p>Notes</p>
 
 <div align="center">
 <img src="images/edit_expense_homepage.png">
@@ -148,11 +152,11 @@ Notes</p>
 <br>
 
 <h2 align="center">Preview: Add Funds</h2>
-<p>The user can add funds to their available pool whenever fortune strikes. Here is an example of a user receiving $100 from his grandmother.
-An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
+<p>The user can add funds to their available pool whenever fortune strikes. Here is an example of a user receiving $100 from his grandmother.</p>
+<p>An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:</p>
 
-Entry Id
-Transaction Name.</p>
+<p>Entry Id</p>
+<p>Transaction Name.</p>
 
 <div align="center">
 <img src="images/add_funds.png">
@@ -166,15 +170,17 @@ Transaction Name.</p>
 
 <h2 align="center">Preview: Homepage after adding Funds</h2>
 <p>The added funds appears as another transaction. However, rather than decrementing the available funds, the new funds are added.
-An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
-
-Entry Id
-Transaction Name
-Date
-Predicted Cost
-True Cost
-Fund Added
-Notes</p>
+</p>
+<p>An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:</p>
+<br>
+<br>
+<p>Entry Id<p/>
+<p>Transaction Name</p>
+<p>Date</p>
+<p>Predicted Cost/<p>
+<p>True Cost</p>
+<p>Fund Added</p>
+<p>Notes</p>
 
 <div align="center">
 <img src="images/add_funds_homepage.png">
@@ -187,10 +193,11 @@ Notes</p>
 <br>
 
 <h2 align="center">Preview: Edit Added Funds</h2>
-<p>Perhaps the user made an error when adding in funds? Easily corrected using the "Edit Added Funds" feature. Here is an example of the user's grandmother giving an extra $100.An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
+<p>Perhaps the user made an error when adding in funds? Easily corrected using the "Edit Added Funds" feature. Here is an example of the user's grandmother giving an extra $100.</p>
+<p>An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:</p>
 
-Entry Id
-Transaction Name.</p>
+<p>Entry Id</p>
+<p>Transaction Name.</p>
 
 <div align="center">
 <img src="images/edit_add_funds.png">
@@ -204,15 +211,17 @@ Transaction Name.</p>
 
 <h2 align="center">Preview: Homepage after editing added Funds</h2>
 <p>The homepage is updated with the extra $100 the user received from his grandmother.
-An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:
-
-Entry Id
-Transaction Name
-Date
-Predicted Cost
-True Cost
-Fund Added
-Notes</p>
+</p>
+<p>An expense report is typically a spreadsheet. The following items can typically be found on an expenses spreadsheet:</p>
+<br>
+<br>
+<p>Entry Id<p/>
+<p>Transaction Name</p>
+<p>Date</p>
+<p>Predicted Cost/<p>
+<p>True Cost</p>
+<p>Fund Added</p>
+<p>Notes</p>
 
 <div align="center">
 <img src="images/edit_add_funds_homepage.png">
