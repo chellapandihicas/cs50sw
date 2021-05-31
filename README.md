@@ -11,7 +11,7 @@ Finance Tracker is a web app implemented using Flask and bootstrap that works li
 
 ### Project Demo
 
-https://youtu.be/nmdu_K3gk1E
+https://youtu.be/0gCX_aT93sI
 
 <hr/>
 
